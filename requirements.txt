@@ -1,0 +1,15 @@
+streamlit>=1.25
+pandas
+python-dateutil
+rapidfuzz
+requests
+tabulate
+google-genai>=0.3.0
+python-dotenv]
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+python-multipart
+python-jose[cryptography] 
+passlib[bcrypt] 

@@ -1,0 +1,4 @@
+txn_idx,invoice_idx,txn_id,invoice_id,match_type,confidence,txn_txn_id,txn_date,txn_amount,txn_description,txn_reference,txn__extracted_ref,txn__norm_text,inv_invoice_id,inv_customer,inv_amount,inv_due_date,inv_reference,inv_issue_date,inv__norm_customer,inv__norm_ref,fuzzy_score
+0,0,TRN-001,INV-001,exact_ref_amount,1.0,TRN-001,2025-10-25,1000.0,EFT ALPHA CORP REF: ALPHA-1234,,ALPHA-1234,alpha corp alpha 1234,INV-001,Alpha Corp,1000.0,2025-10-25,ALPHA-1234,2025-10-25,alpha corp,ALPHA-1234,
+1,1,TRN-002,INV-002,amount_fuzzy_customer,1.0,TRN-002,2025-10-28,550.5,BETA SYSTEMS PAYMENT,,,beta systems,INV-002,Beta Systems,550.5,2025-10-26,BETA550,2025-10-26,beta systems,BETA550,100.0
+3,3,TRN-004,INV-004,amount_fuzzy_customer,1.0,TRN-004,2025-11-02,800.0,DELTA 800,,,delta 800,INV-004,Delta Inc,800.0,2025-11-01,DLT-800,2025-11-01,delta inc,DLT-800,100.0

@@ -1,0 +1,3 @@
+invoice_id,customer,amount,due_date,reference,issue_date,_norm_customer,_norm_ref
+INV-003,Gamma Tech,2300.0,2025-10-28,GAM-2300,2025-10-28,gamma tech,GAM-2300
+INV-005,Beta Systems,150.0,2025-11-05,BETA150,2025-11-05,beta systems,BETA150
